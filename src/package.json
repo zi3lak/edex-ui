@@ -28,7 +28,7 @@
     "geolite2-redist": "^1.0.7",
     "howler": "2.2.0",
     "maxmind": "4.1.4",
-    "nanoid": "3.1.12",
+    "nanoid": "3.3.8",
     "node-pty": "0.9.0",
     "pretty-bytes": "5.3.0",
     "shell-env": "3.0.0",
