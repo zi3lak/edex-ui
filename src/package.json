@@ -25,7 +25,7 @@
   "dependencies": {
     "augmented-ui": "1.1.2",
     "color": "3.1.2",
-    "geolite2-redist": "^1.0.7",
+    "geolite2-redist": "^3.1.0",
     "howler": "2.2.0",
     "maxmind": "4.1.4",
     "nanoid": "3.1.12",
